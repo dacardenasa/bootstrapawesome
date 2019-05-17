@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../7Segmentos/.idea/7Segmentos.iml" filepath="$PROJECT_DIR$/../7Segmentos/.idea/7Segmentos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/bootstrapawesome.iml" filepath="$PROJECT_DIR$/.idea/bootstrapawesome.iml" />
+      <module fileurl="file:///var/www/html/curso-styde/.idea/curso-styde.iml" filepath="/var/www/html/curso-styde/.idea/curso-styde.iml" />
+    </modules>
+  </component>
+</project>
