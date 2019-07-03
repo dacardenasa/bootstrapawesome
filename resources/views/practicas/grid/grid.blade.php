@@ -6,7 +6,7 @@
 
 @section('content')
 
-    <header class="row">
+    <header class="row mt-3">
         <div class="col">
             <h1>HEADER</h1>
         </div>

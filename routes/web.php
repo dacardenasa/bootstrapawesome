@@ -39,7 +39,7 @@ Route::get('/bootstrapGrid/13', function () {
     return view('columnas_anidadas');
 });
 
-Route::get('/practicas/grid', function () {
+Route::get('/practicas/0', function () {
     return view('practicas.grid.grid');
 });
 
@@ -71,7 +71,7 @@ Route::get('/elementosBootstrap/21', function () {
     return view('mediaObject');
 });
 
-Route::get('/practicas/comentarios', function () {
+Route::get('/practicas/1', function () {
     return view('practicas.comentarios.comentarios');
 });
 
