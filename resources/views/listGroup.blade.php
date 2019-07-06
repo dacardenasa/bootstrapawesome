@@ -9,7 +9,7 @@
 
     <div class="row mt-3">
         <div class="col">
-            <ul  class="list-group">
+            <ul class="list-group">
                 <li class="list-group-item">Lorem ipsum dolor sit amet</li>
                 <li class="list-group-item active">Lorem ipsum dolor sit amet</li>
                 <li class="list-group-item disabled">Lorem ipsum dolor sit amet</li>

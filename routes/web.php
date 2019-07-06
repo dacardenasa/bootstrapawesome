@@ -158,3 +158,15 @@ Route::get('/componentesBootstrap/42', function () {
 Route::get('/componentesBootstrap/43', function () {
     return view('listGroup');
 });
+
+Route::get('/componentesBootstrap/44', function () {
+    return view('listGroup2');
+});
+
+
+Route::get('/componentesBootstrap/45', function () {
+    return view('modal');
+});
+
+
+
